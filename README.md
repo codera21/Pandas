@@ -1,1 +1,1 @@
-# Snippets of Pandas Libary 
+# Snippets for Pandas Libary 
