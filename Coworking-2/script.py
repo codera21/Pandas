@@ -1,7 +1,6 @@
 import pandas as pd
 df = pd.read_csv('coworker.csv', low_memory=False)
 
-
 for i, row in df.iterrows():
     print("processing row " , i)
     temp = df.loc[i, 'Address']
