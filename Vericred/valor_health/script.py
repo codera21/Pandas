@@ -8,15 +8,11 @@ try:
     fp = open(filepath)
     for line in fp:
         arr = json.loads(line)
-        specialities =get_specialities(arr['specialties'])
+        specialities = get_specialities(arr['specialties'])
         for i in specialities:
-            if(i == "Keith Poole, DO"):
-                print(line)
-                exit
             speciality.add(i)
 finally:
     fp.close()
 print(speciality)
 print("\n\n")
 print("Optometry" in speciality)
-
