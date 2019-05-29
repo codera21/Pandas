@@ -13,6 +13,6 @@ try:
             speciality.add(i)
 finally:
     fp.close()
-print(speciality)
-print("\n\n")
-print("Optometry" in speciality)
+# print(speciality)
+# print("\n\n")
+# print("Optometry" in speciality)
