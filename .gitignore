@@ -2,3 +2,6 @@
 **/*.json
 **/*.xlsx
 .code
+
+.vscode
+.idea
