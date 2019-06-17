@@ -8,5 +8,12 @@ https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-
 Examples: 
 - See Spectrum's Code
 
-
+### Select where Empty Clause: 
+https://stackoverflow.com/questions/40245507/python-pandas-selecting-rows-whose-column-value-is-null-none-nan
+Examples: 
+-  See MidwestDental's Code.
+### Select only specific Columns from Dataframe:
+https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+Examples: 
+- See MidwestDental's Code.
 
