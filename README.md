@@ -12,8 +12,13 @@ Examples:
 https://stackoverflow.com/questions/40245507/python-pandas-selecting-rows-whose-column-value-is-null-none-nan
 Examples: 
 -  See MidwestDental's Code.
+
 ### Select only specific Columns from Dataframe:
 https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe 
 Examples: 
 - See MidwestDental's Code.
 
+### Do comparation on Dataframes: 
+https://stackoverflow.com/questions/28901683/pandas-get-rows-which-are-not-in-other-dataframe
+Examples:
+- See Nashville-Compair's Code.
