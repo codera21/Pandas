@@ -13,9 +13,9 @@ class bcolors:
 
 #input file could be in excel or csv format
 try:
-    df = pd.read_csv('Files/am.csv')
+    df = pd.read_csv('Files/henry.xlsx')
 except:
-    df = pd.read_excel('Files/am.xlsx')
+    df = pd.read_excel('Files/henry.xlsx')
 
 counts = df.count()
 
